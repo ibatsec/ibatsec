@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ...Python🐍
 - 💞️ I’m looking to collaborate on ...Python🐍
 - 📫 How to reach me ... Join Me at Discord and Lets Collab on Coding and Projects
--  fa-discord fa-xs ====>>> https://discord.gg/FKYd3afs  
+-  ![image](https://github.com/ibatsec/ibatsec/assets/147934701/90760642-277d-4a15-b6ca-5b06d623f4fe)
+====>>> https://discord.gg/FKYd3afs  
 
 
 <!---
